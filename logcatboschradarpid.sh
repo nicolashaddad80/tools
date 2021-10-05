@@ -1,3 +1,4 @@
+clear
 while : 
 	do
 		while ! adb shell pidof com.renault.car.boschradar
